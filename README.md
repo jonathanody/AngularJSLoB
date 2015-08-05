@@ -1,2 +1,2 @@
 # AngularJSLoB
-AngularJS Line of Business
+AngularJS Line of Business Applications
